@@ -1,12 +1,30 @@
-# Learning Ubuntu Server from Scratch
+# 💻 Belajar Ubuntu Server dari Nol (Daily Driver Desktop)
 
-🔰 A personal project to build a home server using Ubuntu Desktop from scratch.
-Aimed at beginners who want to learn about web servers, file sharing, SSH access, and firewalls.
-I'm looking for guidance and open to being mentored from the ground up 🙌
+Dokumentasi pembelajaran pribadi oleh **Dion Puji Ramdani** dalam menggunakan Ubuntu Desktop sebagai _daily driver_ dan server lokal. Proyek ini disusun secara bertahap selama 7 hari, dengan fokus pada CLI, jaringan, layanan server, serta dokumentasi teknis yang rapi dan mudah dipahami oleh pemula.
 
-## 👋 Hello, I'm Dion Puji Ramdani
+---
 
-I'm a vocational high school student majoring in Computer & Network Engineering.  
-This project documents learning how to set up a real Ubuntu-based server at home — using just my laptop
+## 🧭 Daftar Isi
 
-![My Photo](assets/dion_photo.jpg)
+| Hari | Topik Utama
+|------|---------------------------------------------
+| 01   | Perintah Dasar Linux + Konfigurasi Network
+| 02   | Konfigurasi IP Statis Netplan (Wi-Fi)
+| 03   | Remote Server dengan SSH
+| 04   | Instalasi dan Konfigurasi Web Server (Nginx)
+| 05   | File Server (Samba)
+| 06   | Firewall (UFW) dan Keamanan Dasar
+| 07   | Mini Proyek & Dokumentasi Portofolio
+
+---
+
+## 🧑‍💻 Profil Singkat
+
+**Dion Puji Ramdani**  
+📍 Banyuwangi, Jawa Timur  
+🎓 SMK Muhammadiyah 8 Siliragung - TJKT (2020–2025)  
+💼 PKL di ICHINETWORK (Teknisi Internet, 2024–2025)  
+🔗 GitHub: [rachuntul](https://github.com/rachuntul)
+
+> Fokus belajar menjadi freelancer dan sysadmin pemula berbasis Linux Ubuntu
+
