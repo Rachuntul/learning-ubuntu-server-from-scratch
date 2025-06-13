@@ -1,7 +1,11 @@
-'# 💻 Belajar Ubuntu Server dari Nol (Daily Driver Desktop)
+# 💻 Belajar Ubuntu Server dari Nol (Daily Driver Desktop)
 
-Dokumentasi pembelajaran pribadi **Dion Puji Ramdani** dalam menggunakan Ubuntu Desktop sebagai _daily driver_ dan server lokal. Proyek ini disusun secara bertahap, dengan fokus pada CLI, jaringan, layanan server, serta dokumentasi yang mungkin sulit di pahami
----
+**Dion Puji Ramdani**  
+Catatan belajar pribadi dalam menggunakan Ubuntu Desktop sebagai **daily driver** sekaligus server lokal untuk kebutuhan sehari-hari dan latihan.
+
+Dokumentasi ini disusun secara bertahap, mulai dari dasar-dasar terminal (CLI), konfigurasi jaringan, sampai instalasi dan pengelolaan layanan server seperti Nginx, Samba, dan lainnya.  
+Tujuannya sederhana: belajar sambil jalan, dan semoga bisa bermanfaat juga buat yang baru mulai.
+
 
 ## 🧭 Daftar Isi
 
