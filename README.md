@@ -1,7 +1,6 @@
 '# 💻 Belajar Ubuntu Server dari Nol (Daily Driver Desktop)
 
-Dokumentasi pembelajaran pribadi oleh **Dion Puji Ramdani** dalam menggunakan Ubuntu Desktop sebagai _daily driver_ dan server lokal. Proyek ini disusun secara bertahap selama 7 hari, dengan fokus pada CLI, jaringan, layanan server, serta dokumentasi teknis yang rapi dan mudah dipahami oleh pemula.
-
+Dokumentasi pembelajaran pribadi **Dion Puji Ramdani** dalam menggunakan Ubuntu Desktop sebagai _daily driver_ dan server lokal. Proyek ini disusun secara bertahap, dengan fokus pada CLI, jaringan, layanan server, serta dokumentasi yang mungkin sulit di pahami
 ---
 
 ## 🧭 Daftar Isi
@@ -26,5 +25,5 @@ Dokumentasi pembelajaran pribadi oleh **Dion Puji Ramdani** dalam menggunakan Ub
 💼 PKL di ICHINETWORK (Teknisi Internet, 2024–2025)  
 🔗 GitHub: [rachuntul](https://github.com/rachuntul)
 
-> Fokus belajar menjadi freelancer dan sysadmin pemula berbasis Linux Ubuntu
+> Fokus belajar menjadi sysadmin pemula berbasis Linux Ubuntu
 
