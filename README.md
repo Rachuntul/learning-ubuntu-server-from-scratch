@@ -14,8 +14,8 @@ Tujuannya sederhana: belajar sambil jalan, dan semoga bisa bermanfaat juga buat 
 | 01   | Perintah Dasar Linux + Konfigurasi Network
 | 02   | Konfigurasi IP Statis Netplan (Wi-Fi)
 | 03   | Remote Server dengan SSH
-| 04   | Instalasi dan Konfigurasi Web Server (Nginx)
-| 05   | File Server (Samba)
+| 04   | Instalasi dan konfigurasi File Server (Samba)
+| 05   | Instalasi dan Konfigurasi WEB SERVER (Nginx)
 | 06   | Firewall (UFW) dan Keamanan Dasar
 | 07   | Mini Proyek & Dokumentasi Portofolio
 
