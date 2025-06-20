@@ -1,0 +1,35 @@
+🔒 Hari 6: Firewall (UFW) dan Keamanan Dasar
+1. 🔥 Apa itu UFW?
+
+UFW (Uncomplicated Firewall) adalah antarmuka sederhana untuk mengelola iptables. Cocok untuk pengguna pemula maupun menengah.
+
+2. 🛠️ Instalasi dan Aktivasi UFW
+sudo apt update
+sudo apt install ufw
+
+-Aktifkan UFW:
+sudo ufw enable
+-Cek statusnya:
+sudo ufw status verbose
+
+3. ✅ Aturan Dasar UFW
+a. Izinkan koneksi SSH (WAJIB sebelum mengaktifkan firewall jika remote server):
+sudo ufw allow ssh
+b. Izinkan layanan lain:
+-Web Server (HTTP & HTTPS):
+sudo ufw allow 80/tcp
+sudo ufw allow 443/tcp
+-Samba (file sharing):
+sudo ufw allow 'Samba'
+c. Blokir port tertentu:
+sudo ufw deny 23/tcp  # contoh: blokir Telnet
+d. Izinkan IP tertentu:
+sudo ufw allow from 192.168.1.100
+e. Hapus aturan:
+sudo ufw delete allow 80/tcp
+
+4. 🧱 Konfigurasi Default (Disarankan)
+Atur kebijakan default:
+sudo ufw default deny incoming
+sudo ufw default allow outgoing
+
